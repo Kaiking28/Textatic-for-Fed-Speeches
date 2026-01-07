@@ -25,6 +25,13 @@ Identify recurring themes and language patterns across time periods
 ### Visualization
 Generate insights through charts and graphs showing linguistic trends
 
+## Project Structure
+Textatic-for-Fed-Speeches/
+├── textastic.py              # Core NLP analysis functions
+├── textastic_app.py          # Main application interface
+├── textastic_parsers.py      # Speech data parsing utilities
+└── README.md                 # Project documentation
+
 ---
 
 ## How to Install
